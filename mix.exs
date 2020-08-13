@@ -42,7 +42,7 @@ defmodule AwsParameterStoreConfigProvider.MixProject do
       licenses: ["MIT"],
       links: %{
         Documentation: "https://hexdocs.pm/aws_parameter_store_config_provider",
-        GitHub: "https://github.com/lukeledet/aws_parameter_store_config_provider"
+        GitHub: "https://github.com/revelrylabs/aws_parameter_store_config_provider"
       }
     ]
   end
